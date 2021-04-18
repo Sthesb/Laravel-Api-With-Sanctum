@@ -1,3 +1,12 @@
+# Laravel Api With Sanctum
+This project demostrate the use of Sanctum Functionality and Laravel Authorization in a Laravel Backend API
+
+You can read all about <a href = "https://laravel.com/docs/8.x/sanctum">Sanctum here/<a>
+
+## System Requirements
+- Composer. download it <a href= "https://getcomposer.org/">here </a>
+- Laravel 8. You can read all about it below
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
