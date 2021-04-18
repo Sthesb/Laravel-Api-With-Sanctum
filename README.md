@@ -1,7 +1,7 @@
 # Laravel Api With Sanctum
 This project demostrate the use of Sanctum Functionality and Laravel Authorization in a Laravel Backend API
 
-You can read all about <a href = "https://laravel.com/docs/8.x/sanctum">Sanctum here/<a>
+You can read all about <a href = "https://laravel.com/docs/8.x/sanctum">Sanctum here </a>
 
 ## System Requirements
 - Composer. download it <a href= "https://getcomposer.org/">here </a>
